@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ed7da8-e353-44fb-837c-f1adf40e2ae8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -140,8 +139,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="87" />
+    <option name="x" value="40" />
+    <option name="y" value="23" />
     <option name="width" value="1408" />
     <option name="height" value="801" />
   </component>
@@ -229,12 +228,12 @@
       <workItem from="1508445077278" duration="632000" />
       <workItem from="1508447178655" duration="2202000" />
       <workItem from="1508449655930" duration="2691000" />
-      <workItem from="1508539163992" duration="11856000" />
+      <workItem from="1508539163992" duration="11922000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17381000" />
+    <option name="totallyTimeSpent" value="17447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,7 +245,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="87" width="1408" height="801" extended-state="0" />
+    <frame x="40" y="23" width="1408" height="801" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3101983" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
